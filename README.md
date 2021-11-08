@@ -1,2 +1,4 @@
 # Analysis
-DataFrame Configuration, Statistical Analysis
+
+- DataFrame Configuration
+- Statistical Analysis

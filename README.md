@@ -97,14 +97,22 @@
 ### data transformation
 1. 관람객 수, **Log** transformation
 
-    ![image](https://user-images.githubusercontent.com/49540564/145366822-a220866a-87d1-4a01-9868-6693d2d85eee.png) ![image](https://user-images.githubusercontent.com/49540564/145366869-4942d1c9-7f3f-4fcb-a007-4a651b51f11a.png)
+    ![image](https://user-images.githubusercontent.com/49540564/145380257-db7ffdf0-3149-40b7-9fcc-25274d5cb395.png) ![image](https://user-images.githubusercontent.com/49540564/145380287-8615b8b5-f24c-4062-917e-fbeb120ab84b.png)
 
 2. 조회수 평균, **Log** transformation
-
+    
+    ![image](https://user-images.githubusercontent.com/49540564/145380327-7cb5aa12-5360-4d7d-b930-45f51dcf7301.png) ![image](https://user-images.githubusercontent.com/49540564/145380362-27b2b867-f46c-4234-8732-6435bea559c9.png)
 
 3. 댓글 수, **Sqrt** transformation
-4. 배우 영향력, **Sqrt** transformation
-5. 감성 점수 절댓값 평균, **Sqrt** transformation
 
+    ![image](https://user-images.githubusercontent.com/49540564/145380633-2908d333-8190-4ecf-8f1b-12f312879a1c.png) ![image](https://user-images.githubusercontent.com/49540564/145380648-e4f4d133-3db4-43e2-a28c-b1adbcecc289.png)
+    
+5. 배우 영향력, **Sqrt** transformation
 
+    ![image](https://user-images.githubusercontent.com/49540564/145380690-cdf22c03-41b0-451a-a160-ed0a17eeed78.png) ![image](https://user-images.githubusercontent.com/49540564/145380709-674e49d7-b996-4c7b-94c9-473ec2d8cd09.png)
+    
+    
+7. 감성 점수 절댓값 평균, **Sqrt** transformation
+
+    ![image](https://user-images.githubusercontent.com/49540564/145380734-fe09aa49-80d2-43e5-9ad4-ba604269238f.png) ![image](https://user-images.githubusercontent.com/49540564/145380770-3751c2e7-b065-4736-8ad8-08d726e33ebc.png)
 
